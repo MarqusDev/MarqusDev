@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcus</h1>
-<h3 align="center">A passionate frontend & Java developer from Denmark</h3>
+<h3 align="center">A passionated frontend & Java developer from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marqusdev&label=Profile%20views&color=0e75b6&style=flat" alt="marqusdev" /> </p>
 
